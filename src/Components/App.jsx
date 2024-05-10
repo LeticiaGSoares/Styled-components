@@ -1,12 +1,11 @@
-import styled from 'styled-components'
-import Styles from './Styles'
+import {Div, Titulo, Cores} from './Styles'
 
 function App() {
 
   return (
     <>
     <Div>
-      <Titulo >Hello World!</Titulo>
+      
     </Div>
     </>
   )
